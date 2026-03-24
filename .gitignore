@@ -47,18 +47,6 @@ data/processed/
 data/tmp/
 
 ####################################
-# Large data / binary files
-####################################
-*.csv
-*.parquet
-*.feather
-*.h5
-*.hdf5
-*.pkl
-*.pickle
-*.npz
-
-####################################
 # Model artifacts
 ####################################
 models/
